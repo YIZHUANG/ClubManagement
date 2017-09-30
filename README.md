@@ -29,4 +29,5 @@ Functions of the database:
 13.A booking can be cancelled, unless it has already been already purchased (payed for).
 14.A booking can only contain tickets to one event.
 
-
+References:
+This is a case assignment from the course DataBase and management from Haagahelia UAS, given by Kari Silpiö.
